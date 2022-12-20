@@ -11,10 +11,10 @@
 <div>
   <p>
     <img  width="350" height="155" src="https://github-readme-stats.vercel.app/api?username=carloscrw&show_icons=true&hide_border=false&line_height=20&title_color=b964e7&icon_color=7b787d&show_owner=true&theme=ocean_dark"/>
-    <img  width="490" height="165" src="https://raw.githubusercontent.com/carloscrw/carloscrw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img  width="490" height="165" ![Snake animation] src="https://raw.githubusercontent.com/carloscrw/carloscrw/output/github-contribution-grid-snake-dark.svg"/>
   </p>    
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/carloscrw/carloscrw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
