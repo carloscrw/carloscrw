@@ -1,8 +1,8 @@
 # Hi, I'm Carlos Henrique! 
 ### Who am I?
 <p>
-  🧔 My name is <strong>Carlos Henrique</strong> and lover of codes<br/>
-  💻 Developer Web . <bold>ReactJS</bold><em></em> × <bold>JS</bold>.<br/>
+  🧔 My name is <strong>Carlos Henrique</strong> and lover of codes.<br/>
+  💻 Developer Web Full Stack.
 </p>
 
 ---
