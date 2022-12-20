@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Carlos Henrique! 
+### Who am I?
+<p>
+  🧔 My name is <strong>Carlos Henrique</strong> and lover of codes<br/>
+  💻 Developer Web . <bold>ReactJS</bold><em></em> × <bold>JS</bold>.<br/>
+</p>
+
+---
 ### My codes
 <p>I'm still building my portfolio,but i have some projects and you can find some of them <a href="https://github.com/iagoln?tab=repositories">HERE!</a> </p>
 <div>
