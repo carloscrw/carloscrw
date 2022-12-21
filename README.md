@@ -18,6 +18,7 @@
 <p>To find me:</p>
 <div>
 <a href = "mailto:carlos.c.r.w@gmail.com"><img height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/google.svg" ></a>
+<a href = "mailto:carlos.c.r.w@gmail.com"><img height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/discord.svg" ></a>
 <a href="https://www.linkedin.com/in/carlos-henrique-araujo-a52875205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href='https://github.com/carloscrw'><img align="left" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' />
 </a>
