@@ -17,7 +17,7 @@
 ### Contact
 <p>To find me:</p>
 <a href='mailto:carlos.c.r.w@gmail.com?subject=Oi%20Iago'>
-	<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' />
+	<img align="left" src='https://icons8.com.br/icon/17949/google-logo' alt='gmail' />
 </a>
 <a href='#'>
 	<img align="left" src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' />
