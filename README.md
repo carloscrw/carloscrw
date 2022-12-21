@@ -19,7 +19,7 @@
 <div>
 <a href = "mailto:carlos.c.r.w@gmail.com"><img height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/gmail.svg" ></a>
 <a href = "#"><img height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/discord.svg" ></a>
-<a href = "#"><img height="40em" src="https://github.com/carloscrw/carloscrw/blob/main/github.svg" ></a>
+<a href = "#"><img height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/github.svg" ></a>
 </a>
 
 </div>
