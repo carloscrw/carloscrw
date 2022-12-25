@@ -29,7 +29,7 @@
 <p>To find me:</p>
 <div>
 <a href = "mailto:carlos.c.r.w@gmail.com"><img align="left" height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/gmail.svg" ></a>
-<a href = "#"><img align="left" height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/linkedin.svg" ></a>
+<a href = "https://www.linkedin.com/in/carlos-henrique-araujo-a52875205"><img align="left" height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/linkedin.svg" ></a>
 <a href = "#"><img align="left" height="30em" src="https://github.com/carloscrw/carloscrw/blob/main/github.svg" ></a>
 </a>
 
