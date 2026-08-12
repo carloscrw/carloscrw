@@ -21,9 +21,8 @@
 <p>I'm still building my portfolio,but i have some projects and you can find some of them <a href="https://github.com/carloscrw?tab=repositories">HERE!</a> </p>
 <div align="center"> 
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=carloscrw&show_icons=true&hide_border=false&line_height=20&title_color=b964e7&icon_color=7b787d&show_owner=true&theme=ocean_dark"/>
-  <img width="48%" src="https://raw.githubusercontent.com/carloscrw/carloscrw/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="48%" style="border: 1px solid #30363d; border-radius: 12px;" src="https://raw.githubusercontent.com/carloscrw/carloscrw/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
 
 ### Contact
 <p>To find me:</p>
